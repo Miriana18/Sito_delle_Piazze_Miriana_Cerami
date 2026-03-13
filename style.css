@@ -387,6 +387,17 @@ section.card_Foto_insieme h2 {
     object-fit: cover;
 }
 
+.TestoInformativoMe {
+    padding: 10%;
+    padding-top: 20%;
+    padding-bottom: 40%;
+    width: fit-content;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+}
+
 /* =========================================
    ===============  FOOTER  ================
    ========================================= */
@@ -513,4 +524,14 @@ header nav a:hover {
     font-weight: bold;
     padding: 1px 16px 20px 6px;
     }
+   
+      .TestoInformativoMe {
+    padding: 10%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    width: fit-content;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
 }
