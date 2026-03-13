@@ -140,7 +140,7 @@ section.card img {
 }
 
 section.card h2 {
-    font-size: 18px;
+    font-size: 14px;
     font-weight: bold;
     padding: 1px 16px 20px 6px;
 }
@@ -234,7 +234,7 @@ section.foto_pagina_attività img {
    ================================================ */
 
    /*tag del titotolo da prendere sopra, stessa cosa per le foto*/
-
+   
 .Pagina_piazze_evidenza {
     width: fit-content;
     max-width: 35%;
@@ -430,6 +430,17 @@ header nav a:hover {
     color: #000;
 }
 
+
+.TestoInformativoMe {
+    padding: 10%;
+    padding-top: 40%;
+    padding-bottom: 40%;
+    width: fit-content;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
 /* =========================================
    ===============  responsive  ================
    ========================================= */
@@ -495,5 +506,11 @@ header nav a:hover {
     
     .card_Foto_insieme a {
         font-size: 30px;
+    }
+
+    section.card h2 {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 1px 16px 20px 6px;
     }
 }
